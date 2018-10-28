@@ -128,11 +128,6 @@
   - Bio: Footballer and wanna be a competitive coder
   - GitHub: [nikhilkrgautam](https://github.com/nikhilkrgautan)
 
-#### Name: [Gourav Somani](https://github.com/gouravsomani)
- - Place: Surat, Gujarat, India
- - Bio: Frontend web developer
- - GitHub: [gouravsomani](https://github.com/gouravsomani) 
-
 #### Name: [Jenim Patel](https://github.com/Jenimpatel)
  - Place: Surat, Gujarat, India
  - Bio: Working on Machine learning and computer vision
